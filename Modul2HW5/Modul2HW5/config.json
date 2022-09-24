@@ -1,0 +1,8 @@
+﻿
+{
+  "Logger": {
+    "DirectoryPath": "Logs/",
+    "FileName": "log_{0}",
+    "FileExtention": ".txt"
+  }
+}
